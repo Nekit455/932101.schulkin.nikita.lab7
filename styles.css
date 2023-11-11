@@ -1,0 +1,13 @@
+body {
+    margin: 10px;
+    padding: 0;
+    flex-direction: column;
+}
+
+
+.figure {
+    border: 1px solid black;
+    position: absolute;
+    opacity: 0.8;
+    overflow: hidden;
+}
